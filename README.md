@@ -10,7 +10,7 @@ Use [Composer](https://getcomposer.org/):
 ```json
 {
     "require": {
-        "malkusch/bav": "^1"
+        "floyt-mobility-gmbh/bav": "^1"
     }
 }
 ```
